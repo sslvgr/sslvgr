@@ -1,7 +1,6 @@
 God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
 
-### LeetCode Stats
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
+## LeetCode Stats
 
 [Profile Link](https://leetcode.com/sslvgr/)
 
