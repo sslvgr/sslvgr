@@ -1,60 +1,67 @@
-God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
+<p align="center"><i><b>God, grant me the serenity to accept the things I cannot change, courage to change the things I can,<br>and wisdom to know the difference.</b></i></p>
 
-## LeetCode Stats
+---
 
-[Profile Link](https://leetcode.com/sslvgr/)
+## 📊 LeetCode Stats
 
-<img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=all" />
-<img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=easy" />
-<img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=medium" />
-<img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=hard" />
+🔗 [Profile](https://leetcode.com/sslvgr/)
 
-## Technology stack
+<p align="center">
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=all" />
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=easy" />
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=medium" />
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=hard" />
+</p>
 
-**Back-end**
+---
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-5C2D91?style=flat&logo=.net&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-5C2D91?style=flat&logo=.net&logoColor=white)
+## 🧰 Tech Stack
 
-**Front-end**
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px; max-width: 900px;">
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Nx](https://img.shields.io/badge/workspace-143157?style=flat&logo=NX&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+  <!-- Back-end -->
+  <div style="min-width: 240px;">
+    <h3>🖥️ Back-end</h3>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/EF_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  <!-- Databases -->
+  <div style="min-width: 240px;">
+    <h3>🗃️ Databases & Search</h3>
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </div>
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat&logo=Bootstrap&logoColor=whiter)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+  <!-- Messaging -->
+  <div style="min-width: 240px;">
+    <h3>📩 Messaging & Streaming</h3>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  </div>
 
-**Databases**
+  <!-- Cloud & DevOps -->
+  <div style="min-width: 240px;">
+    <h3>☁️ Cloud & DevOps</h3>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </div>
 
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat&logo=Postgresql)
+  </div>
+</div>
 
-![MongoDB](https://img.shields.io/badge/-mongoDB-52C72B?style=flat&logo=MONGODB)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-F04E97?style=flat&logo=Elasticsearch)
+---
 
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
+## 🚫 Front-end
 
-**Cloud**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat&logo=postman)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
+I'm done with that stuff.
