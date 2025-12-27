@@ -2,45 +2,6 @@
 
 ---
 
-<pre>
-Fight Bugs                      |     |
-                                \\_V_//
-                                \/=|=\/
-                                 [=v=]
-                               __\___/_____
-                              /..[  _____  ]
-                             /_  [ [  M /] ]
-                            /../.[ [ M /@] ]
-                           <-->[_[ [M /@/] ]
-                          /../ [.[ [ /@/ ] ]
-     _________________]\ /__/  [_[ [/@/ C] ]
-    <_________________>>0---]  [=\ \@/ C / /
-       ___      ___   ]/000o   /__\ \ C / /
-          \    /              /....\ \_/ /
-       ....\||/....           [___/=\___/
-      .    .  .    .          [...] [...]
-     .      ..      .         [___/ \___]
-     .    0 .. 0    .         <---> <--->
-  /\/\.    .  .    ./\/\      [..]   [..]
- / / / .../|  |\... \ \ \    _[__]   [__]_
-/ / /       \/       \ \ \  [____>   <____]
-</pre>
-
----
-
-## 📊 LeetCode Stats
-
-🔗 [Profile](https://leetcode.com/sslvgr/)
-
-<p align="center">
-  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=all" />
-  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=easy" />
-  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=medium" />
-  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=hard" />
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -91,3 +52,16 @@ Fight Bugs                      |     |
 ## 🚫 Front-end
 
 I'm done with that stuff.
+
+---
+
+## 📊 LeetCode Stats
+
+🔗 [Profile](https://leetcode.com/sslvgr/)
+
+<p align="center">
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=all" />
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=easy" />
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=medium" />
+  <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=hard" />
+</p>
