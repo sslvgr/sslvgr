@@ -14,15 +14,13 @@
 
 ### Tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,redis,kafka,elasticsearch,docker,kubernetes,azure,linux,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,redis,kafka,elasticsearch,docker,kubernetes,azure,linux" />
 
 <br/>
 
 ### LeetCode Stats
 
-<p align="center">
+<p >
   <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=all" />
   <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=easy" />
   <img src="https://badges.peiyuan.ch/leetcode/sslvgr/solved?difficulty=medium" />
